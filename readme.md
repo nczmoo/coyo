@@ -20,3 +20,5 @@ DESIGN
 
     
 MAYBE
+    turn pig's vision into american flag
+    what if in the world map, maybe you could see which direction the pigs are looking, so there's more than just the mine space to avoid?
